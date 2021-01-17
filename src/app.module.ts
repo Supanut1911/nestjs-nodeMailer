@@ -11,7 +11,7 @@ import { AppService } from './app.service';
         port:587,
         secure: false,
         auth: {
-          user: "testUser@gmail.com",
+          user: "testusr1@gmail.com",
           pass: "123456"
         }
       },
